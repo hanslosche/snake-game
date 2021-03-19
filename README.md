@@ -1,5 +1,5 @@
-# Simple Snake Gam
-Snake game created with curses
+## Simple Snake Game 
 
-You are able to control the snake with your keybord arrows.
+Press any of your arrow keys to control the movement !
+
 
